@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "658245128732",
+    "firebase_url": "https://bloodapp-bb125.firebaseio.com",
+    "project_id": "bloodapp-bb125",
+    "storage_bucket": "bloodapp-bb125.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658245128732:android:61e24bc34ce9454aa005d9",
+        "android_client_info": {
+          "package_name": "com.flutterbloodia.flutter_bloodia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658245128732-p498h5k7q1fnj32872hbin3ulbm59oi7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrplIJGAo8giABpyOeGMSvRQiLXrBQbSU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658245128732-p498h5k7q1fnj32872hbin3ulbm59oi7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
